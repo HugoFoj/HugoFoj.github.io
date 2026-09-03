@@ -32,11 +32,11 @@ Here's a table:
 
 How about a yummy crepe?
 
-![Crepe](https://beautifuljekyll.com/assets/img/mudkip-pokemon.gif)
+![Crepe]('/images/spheal-spheal-pokemon.gif')
 
 It can also be centered!
 
-![Crepe](https://beautifuljekyll.com/assets/img/cute-pokemon-mew.webp){: .mx-auto.d-block :}
+![Crepe]('/images/cute-pokemon-mew.webp){: .mx-auto.d-block :}
 
 Here's a code chunk:
 
