@@ -1,6 +1,6 @@
 remote_theme: daattali/beautiful-jekyll@6.0.1
 title: My website
-author: Hugo Foj
+author: Homer Simpson
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -9,8 +9,8 @@ author: Hugo Foj
 # For each link, make sure to create a corresponding markdown file in the root folder (like `aboutme.md`)
 
 navbar-links:
-  About Me: "Eevee"
-  Example Page: "Eevee"
+  About Me: "aboutme"
+  Example Page: "example"
 
 ################
 # --- Logo --- #
@@ -18,7 +18,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "<div classta-width="/images/eevee-pokemon.gif"
+avatar: "/images/eevee-pokemon.gif"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
